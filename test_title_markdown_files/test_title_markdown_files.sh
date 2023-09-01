@@ -21,4 +21,4 @@ do
     touch "$i"
 done
 
-python3 ../rename_markdown_files.py
+python3 ../title_markdown_files.py
