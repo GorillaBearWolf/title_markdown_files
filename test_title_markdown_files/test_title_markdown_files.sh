@@ -5,10 +5,14 @@ OLD_FILES=(
     "Test Markdown File.md"
     ".Test-Markdown_File.md"
     ".Test Markdown File.md"
+    "Test-Markdown_File.txt"
+    ".Test-Markdown_File.txt"
     )
 NEW_FILES=(
     "Test-Markdown_File.md"
     ".Test-Markdown_File.md"
+    "Test-Markdown_File.txt"
+    ".Test-Markdown_File.txt"
     )
 
 for i in "${OLD_FILES[@]}"
